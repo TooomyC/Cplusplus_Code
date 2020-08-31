@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1587380744 source:c:\users\berny\desktop\tomi\1ercuatrimestre2020\programación-1cuatrimestre(2020)\c++ (codigo)\tcp-cpp-2020-1\main.cpp
+	<iostream>
+	"Fecha.h"
+
+1587380553 c:\users\berny\desktop\tomi\1ercuatrimestre2020\programación-1cuatrimestre(2020)\c++ (codigo)\tcp-cpp-2020-1\include\fecha.h
+
+1587380553 source:c:\users\berny\desktop\tomi\1ercuatrimestre2020\programación-1cuatrimestre(2020)\c++ (codigo)\tcp-cpp-2020-1\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+

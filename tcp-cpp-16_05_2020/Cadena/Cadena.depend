@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1312551290 source:c:\users\berny\desktop\tomi\1ercuatrimestre2020\programación-1cuatrimestre(2020)\c++_(codigo)\tcp-cpp-16_05_2020\cadena\main.c
+
+1590271118 source:c:\users\berny\desktop\tomi\1ercuatrimestre2020\programación-1cuatrimestre(2020)\c++_(codigo)\tcp-cpp-16_05_2020\cadena\src\cadena.cpp
+	<string.h>
+	<Cadena.h>
+	<vector>
+
+1590268338 c:\users\berny\desktop\tomi\1ercuatrimestre2020\programación-1cuatrimestre(2020)\c++_(codigo)\tcp-cpp-16_05_2020\cadena\include\cadena.h
+	<vector>
+	<iostream>
+

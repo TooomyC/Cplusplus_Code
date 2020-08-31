@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1589687518 source:c:\users\berny\desktop\tomi\1ercuatrimestre2020\programación-1cuatrimestre(2020)\c++_(codigo)\tcp-cpp-16_05_2020\fusionararchivos\main.cpp
+	<fstream>
+	<iostream>
+	<Cadena.h>
+
+1589657292 c:\users\berny\desktop\tomi\1ercuatrimestre2020\programación-1cuatrimestre(2020)\c++_(codigo)\tcp-cpp-16_05_2020\cadena\include\cadena.h
+	<vector>
+	<iostream>
+

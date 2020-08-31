@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1312551290 source:c:\users\berny\desktop\tomi\1ercuatrimestre2020\programación-1cuatrimestre(2020)\c++_(codigo)\tcp-cpp-16_05_2020\fecha\main.c
+
+1588970783 source:c:\users\berny\desktop\tomi\1ercuatrimestre2020\programación-1cuatrimestre(2020)\c++_(codigo)\tcp-cpp-16_05_2020\fecha\src\fecha.cpp
+	<iostream>
+	"FechaException.h"
+	"Fecha.h"
+
+1590270481 c:\users\berny\desktop\tomi\1ercuatrimestre2020\programación-1cuatrimestre(2020)\c++_(codigo)\tcp-cpp-16_05_2020\fecha\include\fechaexception.h
+	<string.h>
+
+1590266699 c:\users\berny\desktop\tomi\1ercuatrimestre2020\programación-1cuatrimestre(2020)\c++_(codigo)\tcp-cpp-16_05_2020\fecha\include\fecha.h
+	<iostream>
+
